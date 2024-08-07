@@ -1,3 +1,2 @@
-Dataset : BraTS 2020
-Model : Attention Gate Unet
-Parameters : Accuracy , Dice coefficient , Precision , Sensitivity
+Developed a deep learning model for brain tumor segmentation using the BraTS 2020 dataset with an Attention Gate UNet architecture. This approach improved the model's focus on relevant tumor regions, leading to enhanced segmentation accuracy. Evaluated the model's performance using metrics such as Accuracy, Dice Coefficient, Precision, and Sensitivity, demonstrating significant improvements in both accuracy and robustness.
+
